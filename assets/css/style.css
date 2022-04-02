@@ -84,6 +84,14 @@ body {
         background-size: cover;
         background-position: bottom;
         position: relative;
+        margin: 20px;
+        background-color: white;
+        color: #fce138;
+    }
+
+    .hero-secondary {
+        background-color: black;
+        color: red;
     }
 
     .hero-form {
